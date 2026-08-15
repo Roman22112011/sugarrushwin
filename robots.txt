@@ -3,4 +3,4 @@ Allow: /
 Disallow: /admin/
 Disallow: /data/
 
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://sugarrushwin.vercel.app/sitemap.xml
