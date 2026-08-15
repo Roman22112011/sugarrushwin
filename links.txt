@@ -1,0 +1,7 @@
+# Единственный файл для изменения URL кнопок
+demo=https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vs20sugarrush&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobby_url=https%3A%2F%2Fwww.pragmaticplay.com%2Fen%2F
+money=https://example.com/play
+bonus=https://example.com/bonus
+register=https://example.com/register
+mobile=https://example.com/mobile
+promo=https://example.com/promo
